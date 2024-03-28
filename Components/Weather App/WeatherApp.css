@@ -1,0 +1,17 @@
+.main-container{
+    /* border : 1px solid red; */
+    border-radius: 20px;
+    width : 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+    height : 90vh;
+    background: linear-gradient(180deg, #4930d3, #564646);
+}
+.search{
+    padding : 42px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
